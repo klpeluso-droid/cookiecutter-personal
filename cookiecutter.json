@@ -1,0 +1,9 @@
+
+{
+  "project_title": "cookiecutter testing",
+  "project_slug": "cookiecutter_testing",
+  "project_description": "Mi plantilla personalizada para proyectos de ciencia de datos",
+  "project_author_name": "Kyaralp",
+  "project_packages": ["All", "Minimal"],
+  "python_version": "3.7"
+}
